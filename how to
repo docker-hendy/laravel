@@ -1,0 +1,6 @@
+create folder "mysql" "nginx" "src"
+buat folder public di dalam folder src lalu buat file php untuk tes
+file default.conf di taro di dalam folder nginx
+jika file php yg ada di folder public bisa up dan terpublish
+download file composer.phar lalu jalankan perintah di dalam folder src(sebelum menjalankan perintah folder public di hapus dulu)
+<perintah> php74 composer.phar create-project laravel/laravel
